@@ -1,0 +1,12 @@
+class Test6 
+{
+	void m1()
+	{
+		System.out.println("Purushotthama");
+	}
+	public static void main(String[] args) 
+	{
+		Test6 t=new Test6();
+		t.m1();
+	}
+}
