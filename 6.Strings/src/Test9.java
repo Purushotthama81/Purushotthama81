@@ -1,0 +1,12 @@
+
+public class Test9 {
+
+	public static void main(String[] args) {
+
+		String a="   purushotthama   ";
+		System.out.println(a.trim());
+
+	}
+
+}
+
